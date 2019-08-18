@@ -7,10 +7,10 @@
 
 Labs
 
-- [Configure Cluster and Access](https://github.com/Boskey/run_kubernetes_with_vmware/wiki)  
+- [Lab 1: Configure Cluster and Access](https://github.com/Boskey/run_kubernetes_with_vmware/wiki)  
 
-- [Deploy Planespotter App](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Deploy-Plane-Spotter)
+- [Lab 2: Deploy Planespotter App](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Deploy-Plane-Spotter)
  
-- [Publish App](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Publish-Planespotter-App)
+- [Lab 3: Publish App](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Publish-Planespotter-App)
  
-- [Understanding how Kubernetes maintain states](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Kubernetes-Replicasets)
+- [Lab 4: Understanding how Kubernetes maintain states](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Kubernetes-Replicasets)
