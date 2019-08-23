@@ -7,7 +7,7 @@
 
 Labs
 
-- [Lab 1: Configure Cluster and Access](https://github.com/Boskey/run_kubernetes_with_vmware/wiki)  
+- [Lab 1: Connect to a Kubernetes Cluster](https://github.com/Boskey/run_kubernetes_with_vmware/wiki)  
 
 - [Lab 2: Deploy Planespotter App](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Deploy-Plane-Spotter)
  
