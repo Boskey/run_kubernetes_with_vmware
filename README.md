@@ -13,4 +13,4 @@ Labs
  
 - [Lab 3: Publish App](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Lab-3:-Publish-Planespotter-App)
  
-- [Lab 4: Understanding how Kubernetes maintain states](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Kubernetes-Replicasets)
+- [Lab 4: Understanding how Kubernetes maintain states](https://github.com/Boskey/run_kubernetes_with_vmware/wiki/Lab-4:-Understanding-How-Kubernetes-Maintains-States)
